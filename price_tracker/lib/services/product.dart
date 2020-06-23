@@ -1,0 +1,5 @@
+const newPorductInfo;
+
+class ProductModel{
+  
+}
